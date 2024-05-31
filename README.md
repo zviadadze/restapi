@@ -1,2 +1,2 @@
-# restapi
+# userver
 Simple RestAPI Server.
