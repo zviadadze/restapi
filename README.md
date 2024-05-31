@@ -1,2 +1,2 @@
 # userver
-Simple RestAPI Server.
+Simple RestAPI Server that implements basic CRUD operations.
